@@ -1,0 +1,21 @@
+{
+  "name": "take-command",
+  "version": "1.0.0",
+  "description": "take-command cypress poc",
+  "main": "index.js",
+  "scripts": {
+    "open:cypress": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.takecommandhealth.com/"
+  },
+  "keywords": [
+    "poc"
+  ],
+  "author": "Patrick Crawford",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
