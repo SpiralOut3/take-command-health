@@ -13,7 +13,7 @@ https://git-scm.com/downloads
 https://nodejs.org/en/download
 
 
-3. Yarn:  Get lastest version of yarn
+3. Yarn:  Get lastest version of yarn. Open command line.
 npm install --global yarn
 
 
